@@ -1,13 +1,13 @@
-# Matvey Pavlov
+# Pavlov Matvey Dmitrievich
 
-## MIPT DREC 1st year student
+## MIPT DREC 2st year student
 
-#### Age: 18
+#### Age: 19
 
 #### My contacts
 
 - mpavlov375@gmail.com / pavlov.md@phystech.edu
-- [Telegram](https://web.telegram.org/k/#-1906013575)
+- [Telegram](https://web.telegram.org/k/#@EntryFr4ger)
 - [Vk](https://vk.com/entryfrager)
 
 #### More info about my experience: [CV](https://github.com/EntryFrager/CV.git)
@@ -24,5 +24,4 @@
 
 - [Differentiator](https://github.com/EntryFrager/Differentiator.git) - A program for obtaining derivatives of n degrees.
 
-- [CPU](https://github.com/EntryFrager/CPU.git) -
-CPU emulator
+- [CPU](https://github.com/EntryFrager/CPU.git) - CPU emulator
