@@ -1,8 +1,8 @@
 # Pavlov Matvey Dmitrievich
 
-## MIPT DREC 2st year student
+## MIPT DREC 3st year student
 
-#### Age: 19
+#### Age: 20
 
 #### My contacts
 
